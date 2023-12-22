@@ -1,0 +1,40 @@
+table {
+    text-align: center;
+  }
+  
+td {
+    width: 60px;
+    height: 60px;
+    border: 2px solid #000;
+    padding: 0;
+    vertical-align: middle;
+    text-align: left;
+  }
+
+.tx {
+    width: 60px;
+    height: 60px;
+    background-color: #000;
+    
+  }
+
+input, input:hover, input:focus, input:active {
+    border: none !important;
+    border-color: transparent !important;
+    outline: none;
+    border-style: none;
+    background: transparent;
+    text-align: center;
+    vertical-align: middle;
+    width: 40px;
+    height: 40px;
+    font-size: 30;
+}
+.right {
+    float: right;
+    width: 50%
+}
+.left {
+    float: left;
+    width: 50%
+}
